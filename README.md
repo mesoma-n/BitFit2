@@ -2,7 +2,7 @@
 
 Submitted by: **Mesoma Nwankwo**
 
-**BitfitUpdate** is a health metrics app that allows users to track ... [TODO] 
+**BitfitUpdate** is a health metrics app that allows users to track Exercise
 
 Time spent: **240** hours spent in total
 
