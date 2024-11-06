@@ -1,6 +1,6 @@
 # Android Project 6 - *BitfitUpdate*
 
-Submitted by: **Adebola Ajayi**
+Submitted by: **Mesoma Nwankwo**
 
 **BitfitUpdate** is a health metrics app that allows users to track ... [TODO] 
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/AdebolaAj/BitFitUpdate/blob/main/BitLifeUpdate.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mesoma-n/BitFit2/blob/main/BitLifeUpdate.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
@@ -35,7 +35,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2023] [Adebola Ajayi]
+    Copyright [2023] [Mesoma Nwankwo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
