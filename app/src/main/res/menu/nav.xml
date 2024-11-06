@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/workouts"
+        android:enabled="true"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/baseline_run_circle_24"
+        android:title="Workout"/>
+    <item
+        android:id="@+id/summary"
+        android:enabled="true"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/baseline_trending_up_24"
+        android:title="Summary"/>
+</menu>
