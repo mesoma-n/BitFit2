@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/mesoma-n/BitFit2/blob/main/BitLifeUpdate.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mesoma-n/BitFit2/blob/main/demogif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
